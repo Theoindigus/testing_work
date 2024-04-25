@@ -1,0 +1,1 @@
+javac -classpath .\jackson-core-2.15.2.jar;.\jackson-databind-2.15.2.jar;.\jackson-annotations-2.15.2.jar .\src\Task3.java

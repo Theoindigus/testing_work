@@ -1,0 +1,1 @@
+java Task2 %cd%\circle.txt %cd%\points.txt
